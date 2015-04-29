@@ -218,7 +218,7 @@ header .header-content .header-content-inner p {
 
     header .header-content {
         position: absolute;
-        top: 50%;
+        top: 42%;
         padding: 0 50px;
         transform: translateY(-50%);
     }
